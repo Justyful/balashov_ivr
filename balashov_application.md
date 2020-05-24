@@ -4,7 +4,7 @@
 
 ### Электронная почта: blsc.1981@gmail.com
 
-### ВК: vk.com/loh_cvetochniy
+### ВК: https://vk.com/anomaliyaye
 
 ## [ НАЗВАНИЕ ПРОЕКТА ]
 "Справочник по физике"
