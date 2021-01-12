@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string-array name="sections">
+        <item>Механика</item>
+        <item>Термодинамика</item>
+        <item>Электродинамика</item>
+        <item>Магнетизм</item>
+    </string-array>
+    
+    <string-array name="sections_keys">
+        <item>mechanics</item>
+        <item>thermodynamics</item>
+        <item>electricity</item>
+        <item>magnetism</item>
+    </string-array>
+    
+    <string-array name="mechanics_articles">
+        <item>Кинематика</item>
+        <item>Перемещение</item>
+        <item>Сила тяжести</item>
+        <item>Законы Ньютона</item>
+    </string-array>
+    
+    <string-array name="thermodynamics_articles">
+        <item>Идеальный газ</item>
+        <item>Уравнение Менделеева-Клапейрона</item>
+        <item>Изопроцессы</item>
+        <item>Начала термодинамики</item>
+    </string-array>
+    
+    <string-array name="electricity_articles">
+        <item>Свойства электрического заряда</item>
+        <item>Закон Кулона</item>
+        <item>Электрическое поле</item>
+        <item>Напряженность электрического поля</item>
+    </string-array>
+    
+    <string-array name="magnetism_articles">
+        <item>Вектор магнитной индукции</item>
+        <item>Сила Ампера</item>
+        <item>Сила Лоренца</item>
+        <item>Магнитный поток</item>
+    </string-array>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/edit"
+        android:title="Редактировать"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/move"
+        android:title="Поместить статью в раздел"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/star_empty"
+        android:title="Добавить в избранное"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_star_empty"
+        />
+    <item
+        android:id="@+id/star_colored"
+        android:title="Удалить из избранного"
+        app:showAsAction="ifRoom"
+        android:visible="false"
+        android:icon="@drawable/ic_star_colored"
+        />
+</menu>

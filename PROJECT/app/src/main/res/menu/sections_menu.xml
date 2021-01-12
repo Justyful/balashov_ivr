@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/search"
+        android:icon="@drawable/ic_search"
+        android:title="Поиск"
+        app:showAsAction="ifRoom|collapseActionView"
+        app:actionViewClass="android.widget.SearchView" />
+
+    <item
+        android:id="@+id/addSection"
+        android:icon="@drawable/ic_plus"
+        android:title="Новый раздел"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/searchHistory"
+        app:showAsAction="never"
+        android:title="История поиска" />
+</menu>
