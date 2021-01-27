@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string-array name="sections">
+        <item>Кинематика</item>
+        <item>Основы динамики</item>
+        <item>Законы сохранения в механике</item>
+        <item>Простые механизмы</item>
+    </string-array>
+    
+    <string-array name="sections_keys">
+        <item>kinematics</item>
+        <item>dynamics</item>
+        <item>save_mech</item>
+        <item>mechanisms</item>
+    </string-array>
+    
+    <string-array name="kinematics">
+        <item>Основы кинематики</item>
+        <item>Способы задания движения материальной точки</item>
+        <item>Скорость</item>
+        <item>Ускорение</item>
+    </string-array>
+    
+    <string-array name="dynamics">
+        <item>Основы динамики</item>
+        <item>Законы Ньютона</item>
+        <item>Сила упругости</item>
+        <item>Сила трения</item>
+    </string-array>
+    
+    <string-array name="save_mech">
+        <item>Законы сохранения в механике</item>
+        <item>Закон сохранения импульса</item>
+        <item>Работа</item>
+        <item>Кинетическая энергия</item>
+    </string-array>
+    
+    <string-array name="mechanisms">
+        <item>Простые механизмы</item>
+        <item>Рычаг</item>
+        <item>Наклонная плоскость</item>
+        <item>Блок</item>
+        <item>Золотое правило механики</item>
+    </string-array>
+</resources>
